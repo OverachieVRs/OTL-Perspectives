@@ -1,4 +1,4 @@
-# TheProject
+# OTL-Perspectives
 
 This is a repository for our VR project we are required to make for VR4G
 
