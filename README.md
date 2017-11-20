@@ -1,12 +1,12 @@
-#TheProject
+# TheProject
 
 This is a repository for our VR project we are required to make for VR4G
 
-##NOTE
+## NOTE
 
 We will do all development on the "development" branch and we will not work on master
 
-##Setup
+## Setup
 
 The following are the steps to setting up the repo
 
@@ -20,9 +20,9 @@ Add remote definitions by typing: "git remote add upstream https://github.com/Ov
 
 Verify remote was added by typing: "git remote -v" (you should see 4 lines)
 
-###Done
+### Done
 
-##Starting a new feature
+## Starting a new feature
 
 The following are the steps to starting a new feature
 
@@ -36,7 +36,7 @@ Add all your work
 
 Adding your work to your branch
 
-##The following are the steps to adding your work to your branch
+## The following are the steps to adding your work to your branch
 
 Add all your changes: "git add -A"
 
