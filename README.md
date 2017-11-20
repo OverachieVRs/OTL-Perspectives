@@ -1,6 +1,6 @@
 TheProject
 
-This is a repository for our web app we are required to make for VR4G
+This is a repository for our VR project we are required to make for VR4G
 
 NOTE
 
